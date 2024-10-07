@@ -3,7 +3,7 @@
 I'm a **20-year-old aspiring cybersecurity professional** with a passion for protecting digital environments. Currently, I'm pursuing a **Bachelor's in Cybersecurity** at Miami Dade College, where I’m honing my skills and preparing to make a meaningful impact in the field by **December 2024**.
 
 ## 💡 About Me
-Ever since I started exploring the world of cybersecurity, I’ve been captivated by the challenges it presents. From conducting hands-on labs on **TryHackMe** to earning certifications like **CompTIA Security+** and **ISC2 Certified in Cybersecurity**, I am committed to expanding my knowledge and expertise. 
+Ever since I started exploring the world of cybersecurity, I’ve been captivated by the challenges it presents. From conducting numerous hands-on labs from **TryHackMe** on my own homelab, to earning certifications like **CompTIA Security+** and **ISC2 Certified in Cybersecurity**, I am committed to expanding my knowledge and expertise. 
 
 ## 🛠️ Technical Skills
 - **Operating Systems**: Windows, Linux

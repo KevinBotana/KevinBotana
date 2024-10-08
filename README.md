@@ -19,6 +19,5 @@ I’m eager to transition into an entry-level defensive role in cybersecurity, a
 ## 🌐 Let's Connect!
 - 📧 Email: [kevinbotana@gmail.com](mailto:kevinbotana@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-botana/)
-- 🐱‍💻 [GitHub](https://github.com/KevinBotana)
 
 Thanks for visiting my profile! I’m always open to networking, collaboration, and new opportunities. 🚀

@@ -17,7 +17,6 @@ Ever since I started exploring the world of cybersecurity, I’ve been captivate
 I’m eager to transition into an entry-level defensive role in cybersecurity, and I look forward to applying my skills and passion to help organizations defend against cyber threats.
 
 ## 🌐 Let's Connect!
-- 📧 Email: [kevinbotana@gmail.com](mailto:kevinbotana@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-botana/)
 
 Thanks for visiting my profile! I’m always open to networking, collaboration, and new opportunities. 🚀

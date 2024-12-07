@@ -1,15 +1,15 @@
 # 👋 Hello! I'm Kevin Botana
 
-I'm a **20-year-old aspiring cybersecurity professional** with a passion for protecting digital environments. Currently, I'm pursuing a **Bachelor's in Cybersecurity** at Miami Dade College, where I’m honing my skills and preparing to make a meaningful impact in the field by **December 2024**.
+I am a 20-year-old aspiring cybersecurity professional with hands-on experience from well over 100 TryHackMe labs and various job simulations. I hold a Bachelor's degree in Cybersecurity and certifications, including CompTIA Security+, Microsoft Azure Fundamentals, and ISC2 Certified in Cybersecurity.
 
 ## 💡 About Me
 Ever since I started exploring the world of cybersecurity, I’ve been captivated by the challenges it presents. From conducting numerous hands-on labs from **TryHackMe** in my own homelab, to earning certifications like **CompTIA Security+** and **ISC2 Certified in Cybersecurity**, I am committed to expanding my knowledge and expertise. 
 
 ## 🛠️ Technical Skills
+- **Certifications**: CompTIA Security+, ISC2 Certified in Cybersecurity, AZ-900, Blue Team Level 1(In Progress)
 - **Operating Systems**: Windows, Linux
 - **Security Tools**: Splunk, Wireshark, Nessus, Nmap
 - **Programming**: Python (Intermediate)
-- **Cybersecurity Practices**: Risk Management, Incident Response, Vulnerability Assessments
 - **General Skills**: Microsoft Office Suite, Google Workspace, Virtual Machines
 - **Languages**: Bilingual (English, Spanish)
 

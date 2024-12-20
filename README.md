@@ -9,8 +9,8 @@ Ever since I started exploring the world of cybersecurity, I’ve been captivate
 - **Certifications**: CompTIA Security+, ISC2 Certified in Cybersecurity, AZ-900, Blue Team Level 1(In Progress)
 - **Operating Systems**: Windows, Linux
 - **Security Tools**: Splunk, Wireshark, Snort, Nmap, Microsoft Defender 
-- **Programming**: Python (Intermediate)
-- **General Skills**: Microsoft Office Suite, Google Workspace, Virtual Machines
+- **Programming**: Python
+- **General Skills**: Microsoft Office Suite, Google Workspace, Virtual Machines, Communication, Critical Thinking 
 - **Languages**: Bilingual (English, Spanish)
 
 ## 🎯 Career Aspirations

@@ -8,7 +8,7 @@ Ever since I started exploring the world of cybersecurity, I’ve been captivate
 ## 🛠️ Technical Skills
 - **Certifications**: CompTIA Security+, ISC2 Certified in Cybersecurity, AZ-900, Blue Team Level 1(In Progress)
 - **Operating Systems**: Windows, Linux
-- **Security Tools**: Splunk, Wireshark, Nessus, Nmap
+- **Security Tools**: Splunk, Wireshark, Snort, Nmap, Microsoft Defender 
 - **Programming**: Python (Intermediate)
 - **General Skills**: Microsoft Office Suite, Google Workspace, Virtual Machines
 - **Languages**: Bilingual (English, Spanish)

@@ -2,9 +2,6 @@
 
 I am cybersecurity professional with hands-on experience from well over 100 TryHackMe labs and various job simulations. I hold a Bachelor's degree in Cybersecurity and certifications, including CompTIA Security+, BTL1,  Microsoft Azure Fundamentals, and ISC2 Certified in Cybersecurity.
 
-## 💡 About Me
-Ever since I started exploring the world of cybersecurity, I’ve been captivated by the challenges it presents. From conducting numerous hands-on labs from **TryHackMe** in my own homelab, to earning certifications like **CompTIA Security+** and **ISC2 Certified in Cybersecurity**, I am committed to expanding my knowledge and expertise. 
-
 ## 🛠️ Technical Skills
 - **Certifications**: CompTIA Security+, BTL1, ISC2 Certified in Cybersecurity, AZ-900
 - **Operating Systems**: Windows, Linux

@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Kevin Botana
 
-I am a cybersecurity professional with hands-on experience from well over 100 TryHackMe labs and various job simulations. I hold a Bachelor's degree in Cybersecurity and certifications, including but not limited to CompTIA Security+ and Blue Team Level 1.
+I am a cybersecurity professional with hands-on experience from well over 150 TryHackMe labs and various job simulations. I hold a Bachelor's degree in Cybersecurity and certifications, including but not limited to CompTIA Security+ and Blue Team Level 1.
 
 ## 🛠️ Technical Skills
 - **Certifications**: CompTIA Security+, BTL1, ISC2 Certified in Cybersecurity, AZ-900

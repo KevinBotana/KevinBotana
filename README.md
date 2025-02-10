@@ -10,8 +10,6 @@ I am a cybersecurity professional with hands-on experience from well over 100 Tr
 - **General Skills**: Microsoft Office Suite, Google Workspace, Virtual Machines, Communication, Critical Thinking 
 - **Languages**: Bilingual (English, Spanish)
 
-## 🎯 Career Aspirations
-I’m eager to transition into an entry-level defensive role in cybersecurity, and I look forward to applying my skills and passion to help organizations defend against cyber threats.
 
 ## 🌐 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-botana/)

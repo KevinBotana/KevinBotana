@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Kevin Botana
 
-I am a cybersecurity analyst with hands-on experience from hundreads of labs and various job simulations. I hold a Bachelor's degree in Cybersecurity and certifications, including but not limited to:
+I am a cybersecurity analyst with hands-on experience from years in the field and hundreds of labs from TryHackMe. I hold a Bachelor's degree in Cybersecurity and certifications, including but not limited to:
 
 CISM
 Security+ 
